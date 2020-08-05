@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">playerDemo</string>
+    <string name="native_video_player">Native video player</string>
+</resources>
